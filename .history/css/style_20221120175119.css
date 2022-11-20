@@ -21,7 +21,6 @@ body {
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
-    box-sizing: border-box;
 
 }
 .nav {
@@ -110,16 +109,6 @@ body {
 .service-item {
     display: flex;
     justify-content: flex-start;
-    align-items: center;
-}
-.services_img {
-    flex-basis: 120px;
-    text-align: center;
-
-}
-.services_text {
-    flex-basis: calc(100% - 120px);
-
 }
 .services h3 {
     font-size: 28px;
@@ -127,9 +116,8 @@ body {
 
 }
 .services p {
-    font-size: 16px;
+    font-size: 14px;
     color: #B2B2B2;
-    line-height: 1.5;
 
 
 }
