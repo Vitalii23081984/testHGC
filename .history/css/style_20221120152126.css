@@ -101,19 +101,3 @@ body {
     padding: 5px 15px;
     color: #c2c2c2;
 }
-.services {
-    display: grid;
-    grid-template: 50% 50% / 50% 50%;
-
-}
-.services h3 {
-    font-size: 28px;
-    font-weight: 400;
-
-}
-.services p {
-    font-size: 14px;
-    color: #B2B2B2;
-    
-
-}
