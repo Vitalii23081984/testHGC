@@ -8,7 +8,6 @@ body {
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,7 +35,6 @@ body {
     padding: 10px 15px;
     color: white;
     border: none;
-    font-weight: 700;
 }
 .logo {
     display: flex;
