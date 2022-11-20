@@ -30,8 +30,6 @@ body {
 .nav_btn {
     background-color: #5528FF;
     border-radius: 5px;
-    padding: 10px 15px;
-    color: white;
 }
 .logo {
     display: flex;
